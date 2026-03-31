@@ -3,7 +3,7 @@
 
 Analista y Científico de Datos en formación, con experiencia práctica en modelos de machine learning, pipelines de QA y generación de insights para equipos de producto. Me apasiona transformar datos en información accionable combinando estadística, visualización y aprendizaje automático.
 
-Actualmente cursando la **Licenciatura en Análisis y Gestión de Datos** en la UNSL y la **Diplomatura en Ciencia de Datos, ML y sus Aplicaciones** en FAMAF (UNC).
+Analista de Datos egresado de la **UNSL** (2025) y Diplomado en **Ciencia de Datos, ML y sus Aplicaciones** por **FAMAF (UNC)** (2025). Actualmente cursando la **Licenciatura en Análisis y Gestión de Datos** en la UNSL.
 
 ---
 
