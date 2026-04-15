@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ignacio López Parra · Hi, I'm Ignacio López Parra
+# 👋 Hola, soy Ignacio Lopez Parra · Hi, I'm Ignacio Lopez Parra
 
 **Data Analyst & Data Scientist** · Argentina
 
