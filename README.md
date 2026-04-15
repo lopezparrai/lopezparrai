@@ -4,7 +4,7 @@
 
 ---
 
-## 🇦🇷 Español
+## 🌐 Español
 
 Analista y Científico de Datos con experiencia práctica en machine learning, automatización con IA, simulación estocástica y visualización de datos. Me apasiona transformar datos en información accionable combinando estadística, modelos predictivos y herramientas modernas de ingeniería de datos.
 
@@ -46,7 +46,7 @@ Mis proyectos cubren machine learning, automatización con IA, simulación estoc
 
 ---
 
-## 🇺🇸 English
+## 🌐 English
 
 Data Analyst & Data Scientist with hands-on experience in machine learning, AI-powered automation, stochastic simulation, and data visualization. I enjoy turning raw data into actionable insights by combining statistics, predictive modeling, and modern data engineering tools.
 
